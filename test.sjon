@@ -1,0 +1,147 @@
+{
+  "id": "7418",
+  "is_other_pilgrim": "false",
+  "hashed": "a0hYM3hZemduUzQ2aHhIMjN5S2dsYkVoa1lXNFBRNWZoYVVNRHRhZElHTTM5NVpPdXFoeFVqbzA2Y3cvdTNoUQ==",
+  "english_name": "OMHASHEM ABDELNAEIM AHMED ABDELREHIM",
+  "arabic_name": "هاشم عبد النعيم احمد عبد الرحيم",
+  "passport_number": "A21653589",
+  "national_id": "26402112500382",
+  "visa_number": "6067262945",
+  "number_trip": "SV9633",
+  "issue_date": "2019/11/26",
+  "price": "13500",
+  "program_level": "3",
+  "transportation_name": "اير كايرو",
+  "transportation_type": "جوى",
+  "accommodation": "غرفة رباعية",
+  "qr_code": "https://files.egyptumrah.com/b/po-barcode/9c6ba3eb-ad61-4b09-9e4d-9b49a34e0f09",
+  "company_name": "فرست ترافيل",
+  "logo": "",
+  "Image_pesonal": "",
+  "segments": [
+    {
+      "date": "27-5-2022",
+      "subtitle": "مطار القاهرة الدولي",
+      "title": "مغادرة",
+      "type": "Departure"
+    },
+    {
+      "type": "Arrival",
+      "title": "وصول",
+      "subtitle": "المدينة",
+      "date": "27-5-2022"
+    },
+    {
+      "type": "Attraction",
+      "title": "مزارات المدينة",
+      "subtitle": "المدينة",
+      "date": "30-5-2022"
+    },
+    {
+      "type": "Hotel",
+      "title": "مكة المكرمة",
+      "subtitle": "فندق الماسة بدر",
+      "date": "8-6-2022"
+    },
+    {
+      "type": "Hotel",
+      "title": "مكة المكرمة",
+      "subtitle": "فندق الماسة بدر",
+      "date": "9-6-2022"
+    },
+    {
+      "type": "Hotel",
+      "title": "مكة المكرمة",
+      "subtitle": "فندق الماسة بدر",
+      "date": "10-6-2022"
+    },
+    {
+      "type": "Return",
+      "title": "مكة المكرمة",
+      "subtitle": "فندق الماسة بدر",
+      "date": "26-6-2022"
+    }
+  ],
+  "package": {
+    "id": "879",
+    "file_code": "14419114041202",
+    "type": "group",
+    "transport_type": "Air",
+    "departure_date": "2022-05-27",
+    "name": "اسيوط 1",
+    "company_id": "1199",
+    "pax": "72",
+    "notes": "",
+    "stars": ":3",
+    "transporter_company_id": "2357",
+    "transporter_company": "اير كايرو",
+    "return_date": "2022-06-26",
+    "status": "Approved",
+    "available_to_edit": "0",
+    "supervisors": {
+      "supervisor_id": "33",
+      "supervisor_company_id": "453",
+      "request_status": "approved",
+      "supervisor": {
+        "name": "محمد احمد عمر",
+        "passport": "A21653589",
+        "national_id": "26522112500332"
+      },
+      "company": {
+        "name": "سى لافى تورز"
+      }
+    },
+    "season_end_date": "2022-06-08",
+    "ministry_can_edit": "0",
+    "livings": [
+      {
+        "index": "0",
+        "city": "المدينة",
+        "hotel": "الجاد المدينه",
+        "check_in": "2022-06-08",
+        "nights": "4",
+        "attractions": {
+          "name": "مزارات المدينة",
+          "city": "المدينة",
+          "start_date": "2022-06-10T12:00:00.000000Z",
+          "end_date": "2022-06-14T12:00:00.000000Z"
+        }
+      },
+      {
+        "index": "1",
+        "city": "مكة المكرمة",
+        "hotel": "الرياض الضيافة",
+        "check_in": "2022-06-14",
+        "nights": "10",
+        "attractions": {
+          "name": "مزارات مكة المكرمة",
+          "city": "مكة المكرمة",
+          "start_date": "2022-06-14T12:00:00.000000Z",
+          "end_date": "2022-06-24T12:00:00.000000Z"
+        }
+      }
+    ],
+    "dates": {
+      "departure": {
+        "from": {
+          "port": "اسيوط",
+          "date": "2022-05-27"
+        },
+        "to": {
+          "port": "جدة",
+          "date": "2022-05-27"
+        }
+      },
+      "return": {
+        "from": {
+          "port": "جدة",
+          "date": "2022-06-26"
+        },
+        "to": {
+          "port": "اسيوط",
+          "date": "2022-06-26"
+        }
+      }
+    }
+  }
+}
